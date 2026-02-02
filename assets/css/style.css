@@ -3760,6 +3760,12 @@ footer {
   }
 }
 @media (max-width: 575px) {
+  .advantage-card_title {
+    margin-top: 15px !important;
+  }
+  .advantage-card {
+    min-height: auto !important;
+  }
   body {
     padding-bottom: 72px;
   }
